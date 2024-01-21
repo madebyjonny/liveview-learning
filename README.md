@@ -1,4 +1,7 @@
 # LiveviewLearning
+goal of this repo is to get comfortable with liveview, this idealiy will grow from a basic experiment to some form of full application. Right now I am thinking a CMS.
+
+
 
 To start your Phoenix server:
 
